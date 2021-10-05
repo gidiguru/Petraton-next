@@ -1,0 +1,56 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\tomij\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init svelte@next C:\Users\tomij\OneDrive\gidiguru\sveltekit\my-app\new-svelte-app
+
+PATH: 
+  C:\Users\tomij\OneDrive\gidiguru\sveltekit\my-app\node_modules\.bin;C:\Users\tomij\OneDrive\gidiguru\sveltekit\node_modules\.bin;C:\Users\tomij\OneDrive\gidiguru\node_modules\.bin;C:\Users\tomij\OneDrive\node_modules\.bin;C:\Users\tomij\node_modules\.bin;C:\Users\node_modules\.bin;C:\node_modules\.bin;C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\run-script\lib\node-gyp-bin;C:\Users\tomij\AppData\Local\npm-cache\_npx\9320fb454a84dc6d\node_modules\.bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\tomij\bin;C:\Python39\Scripts;C:\Python39;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\PuTTY;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Concordium;C:\Users\tomij\AppData\Roaming\concordium;C:\Program Files\CMake\bin;C:\Program Files\dotnet;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\tomij\.cargo\bin;C:\Users\tomij\AppData\Local\Microsoft\WindowsApps;C:\Users\tomij\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\tomij\AppData\Roaming\npm;C:\Users\tomij\.dotnet\tools
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  15.9.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\tomij\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:96361:59)
+      at Object.<anonymous> (C:\Users\tomij\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:88636:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\tomij\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\tomij\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "my-app",
+    "version": "0.0.1",
+    "scripts": {
+      "dev": "svelte-kit dev",
+      "build": "svelte-kit build",
+      "preview": "svelte-kit preview",
+      "lint": "prettier --ignore-path .gitignore --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
+      "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
+    },
+    "devDependencies": {
+      "@sveltejs/kit": "next",
+      "eslint": "^7.32.0",
+      "eslint-config-prettier": "^8.3.0",
+      "eslint-plugin-svelte3": "^3.2.1",
+      "prettier": "^2.4.1",
+      "prettier-plugin-svelte": "^2.4.0",
+      "svelte": "^3.34.0"
+    },
+    "type": "module",
+    "dependencies": {
+      "@fontsource/fira-mono": "^4.5.0",
+      "@lukeed/uuid": "^2.0.0",
+      "cookie": "^0.4.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
