@@ -1,5 +1,5 @@
 import preprocess from "svelte-preprocess";
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-netlify';
 import { mdsvex } from "mdsvex";
 import mdsvexConfig from "./mdsvex.config.js";
 
@@ -13,11 +13,9 @@ const config = {
         // By default, `npm run build` will create a standard Node app.
 		// You can create optimized builds for different platforms by
 		// specifying a different adapter
-		adapter: adapter({
-			// default options are shown
+		adapter: adapter(),
             target: '#svelte',
-			fallback: null
-		})
+		
 	},
 
     preprocess: [mdsvex(mdsvexConfig), preprocess({
