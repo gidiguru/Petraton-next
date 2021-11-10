@@ -39,7 +39,7 @@
 				<a class="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Start free trial</a>
 			  </div> -->
 			  <div>
-				<a class="btn text-white bg-yellow-900 hover:bg-gray-500 w-full sm:w-auto sm:ml-0" href="#0">Learn more</a>
+				<a class="btn text-white bg-yellow-900 hover:bg-gray-500 w-full sm:w-auto sm:ml-0" href="/about">Learn more</a>
 			  </div>
 			</div>
 		  </div>
@@ -62,7 +62,7 @@
 				<a class="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Start free trial</a>
 			  </div> -->
 			  <div>
-				<a class="btn text-white bg-gray-700 hover:bg-yellow-500 w-full sm:w-auto sm:ml-0" href="#0">Here's how!</a>
+				<a class="btn text-white bg-gray-700 hover:bg-yellow-500 w-full sm:w-auto sm:ml-0" href="/projects">Here's how!</a>
 			  </div>
 			</div>
 		  </div>
