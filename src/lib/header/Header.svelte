@@ -37,11 +37,11 @@ const mediaQueryHandler = e => {
 };
 
 // Attach media query listener on mount hook
-onMount(() => {
-  const mediaListener = window.matchMedia("(max-width: 767px)");
+// onMount(() => {
+//   const mediaListener = window.matchMedia("(max-width: 767px)");
 
-  mediaListener.addListener(mediaQueryHandler);
-});
+//   mediaListener.addListener(mediaQueryHandler);
+// });
 
 </script>
 
