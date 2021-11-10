@@ -17,12 +17,12 @@ let showMobileMenu = false;
 const navItems = [
 
   { label: "Home", href: "/" },
-  { label: "About", href: "about" },
-  { label: "Team", href: "team" },
-  { label: "Projects", href: "projects" },
-  { label: "News", href: "news" },
-  { label: "Careers", href: "careers" },
-  { label: "Contact", href: "contact" }
+  { label: "About", href: "/about" },
+  { label: "Team", href: "/team" },
+  { label: "Projects", href: "/projects" },
+  { label: "News", href: "/news" },
+  { label: "Careers", href: "/careers" },
+  { label: "Contact", href: "/contact" }
 ];
 
 // Mobile menu click event handler
