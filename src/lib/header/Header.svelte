@@ -29,18 +29,18 @@ const navItems = [
 const handleMobileIconClick = () => (showMobileMenu = !showMobileMenu);
 
 // Media match query handler
-const mediaQueryHandler = e => {
-  // Reset mobile state
-  if (!e.matches) {
-	showMobileMenu = false;
-  }
-};
+// const mediaQueryHandler = e => {
+//   // Reset mobile state
+//   if (!e.matches) {
+// 	showMobileMenu = false;
+//   }
+// };
 
 // Attach media query listener on mount hook
 // onMount(() => {
 //   const mediaListener = window.matchMedia("(max-width: 767px)");
-
 //   mediaListener.addListener(mediaQueryHandler);
+//   MediaQueryList.addListener(mediaQueryHandler);
 // });
 
 </script>
