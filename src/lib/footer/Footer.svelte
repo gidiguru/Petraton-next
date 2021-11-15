@@ -33,7 +33,7 @@
                   <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href=/team>Team</a>
                 </li>
                 <li>
-                  <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href=/careers>Careers</a>
+                  <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href=/community>The Community</a>
                 </li>
                 <li>
                     <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href=/news>News</a>
