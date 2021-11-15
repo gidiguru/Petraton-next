@@ -20,8 +20,8 @@ const navItems = [
   { label: "About", href: "/about" },
   { label: "Team", href: "/team" },
   { label: "Projects", href: "/projects" },
+   { label: "The Community", href: "/community" }, 
   { label: "News", href: "/news" },
-  { label: "Careers", href: "/careers" },
   { label: "Contact", href: "/contact" }
 ];
 
@@ -33,7 +33,7 @@ const mediaQueryHandler = e => {
   // Reset mobile state
   if (!e.matches) {
 	showMobileMenu = false;
-  }
+  } else {showMobileMenu = true;}
 };
 
 // Attach media query listener on mount hook

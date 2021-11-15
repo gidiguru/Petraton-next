@@ -10,7 +10,7 @@
 		<a class="block" href="about">About</a>
         <a class="block" href="projects">Projects</a>
 		<a class="block" href="team">Team</a>
-        <a class="block" href="careers">Careers</a>
+        <a class="block" href="community">The Community</a>
 		<a class="block" href="news">News</a>
         <a class="block" href="contact">Contact</a>
 	</nav>

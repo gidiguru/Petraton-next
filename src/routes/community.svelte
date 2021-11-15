@@ -19,7 +19,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Careers</h1>
+	<h1>The Community</h1>
 
 	<p>
 		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
