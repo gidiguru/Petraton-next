@@ -21,27 +21,56 @@
 <div class="content">
 	<h1>About Us</h1>
 
-	<p>
-		Petraton is a mining startup focused on the search and discovery of critical minerals important for the modern technology industry. The company integrates geoscience and geospatial datasets with modern exploration techniques to inform the exploration lifecycle and make faster, better-informed decisions. We:
-	</p>
-	<ul>
+	<section class="text-gray-600 body-font">
+		<div class="container px-5 py-5 mx-auto">
+		  <div class="flex flex-col text-center w-full mb-10">
 
-	</ul>
-	<ul>
-		•	Use satellite, aerial, and ground data to map surface geology and minerals associated with economic minerals of interest.
-	</ul>
-	<ul>
-		•	Capture geospatial, geological, geophysical, and geochemical information to train exploration models that are calibrated to known mineral occurrences and scale results over entire regions. 
-	</ul>
-	<ul>
-		•	Build a private geoscience database that will inform strategic decisions and reduce exploration and mining risk.
-	</ul>
-	<ul>
-		•	Predict the economic occurrences of these minerals and feed the domestic reserves, production, processing, and recycling supply chains.
-	</ul>
-	<ul>
-		•	Provide vital information to the industry, government, and communities to support management of these critical resources and protect the environment.
-	</ul>
+			<p class="lg:w-2/3 mx-auto leading-relaxed text-base">Petraton is a mining startup focused on the search and discovery of critical minerals important to the modern technology industry. We hold exclusive rights to explore and mine all minerals within 1000 square kilometers of an emerging lithium pegmatite province in western Nigeria.</p>
+		  </div>
+		  
+		  <img src="/img/Petraton-licenses.png" alt="Petraton-licenses">
+
+		  <div class="flex flex-wrap">
+			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+			  <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Integrated Exploration</h2>
+			  <p class="leading-relaxed text-base mb-4">We are using satellite, aerial, and ground data to map surface geology and minerals associated with economic minerals of interest.</p>
+			  <!-- <a class="text-indigo-500 inline-flex items-center">Learn More
+				<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+				  <path d="M5 12h14M12 5l7 7-7 7"></path>
+				</svg>
+			  </a> -->
+			</div>
+			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+			  <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Data Driven</h2>
+			  <p class="leading-relaxed text-base mb-4">We are building a private geoscience database that will inform strategic decisions and reduce exploration and mining risk.</p>
+			  <!-- <a class="text-indigo-500 inline-flex items-center">Learn More
+				<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+				  <path d="M5 12h14M12 5l7 7-7 7"></path>
+				</svg>
+			  </a> -->
+			</div>
+			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+			  <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Economic Potential</h2>
+			  <p class="leading-relaxed text-base mb-4">We will predict the economic occurrences of these minerals and feed the domestic reserves, production, processing, and recycling supply chains.</p>
+			  <!-- <a class="text-indigo-500 inline-flex items-center">Learn More
+				<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+				  <path d="M5 12h14M12 5l7 7-7 7"></path>
+				</svg>
+			  </a> -->
+			</div>
+			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+			  <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Partnerships</h2>
+			  <p class="leading-relaxed text-base mb-4">We partner with the industry, government, and communities to support management of these critical resources and protect the environment.</p>
+			  <!-- <a class="text-indigo-500 inline-flex items-center">Learn More
+				<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+				  <path d="M5 12h14M12 5l7 7-7 7"></path>
+				</svg>
+			  </a> -->
+			</div>
+		  </div>
+		  <a href="/projects" alt=""><button class="flex mx-auto mt-1 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Projects</button></a>
+		</div>
+	  </section>
 
 </div>
 

@@ -79,7 +79,8 @@ onMount(() => {
   
 	.inner {
 	  max-width: 980px;
-	  padding-left: 60px;
+	  padding-left: 30px;
+
 
 	  margin: auto;
 	  box-sizing: border-box;
@@ -196,6 +197,7 @@ onMount(() => {
 		.inner {
 
 		justify-content: space-around;
+		padding-left: 85px;
 	}
 	.mobile-icon {
 	  display: flex;
@@ -204,8 +206,6 @@ onMount(() => {
 	}
 
 	@media only screen and (min-width: 767px) {
-	 
-
 		
 	  .mobile-icon {
 		display: none;

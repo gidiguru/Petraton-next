@@ -1,7 +1,7 @@
 ---
 slug: 20-12-petraton-licenses
 title: Petraton Acquires Exploration Rights in West Africa Frontier Lithium Belt
-date: 2020-12-10
+date: December 10, 2020
 excerpt: "Petraton has been granted exclusive exploration rights to 850 sq. km within the Western Nigeria Schist Belt"
 tags: [License Rights]
 ---

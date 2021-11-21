@@ -24,7 +24,7 @@
 	<div class="max-w-6xl pt-25 mx-auto px-4 sm:px-6">
 	  <!-- {/* Hero content */} -->
 
-	  <div class="pt-32 pb-12 md:pt-40 md:pb-20">
+	  <div class="pt-32 pb-12 md:pt-40 md:pb-20 bg-fixed" style="background-image: url(/img/Eruwa.png)">
 		<!-- {/* Section header */} -->
 		<div class="flex flex-col items-center">
 	  <img class="object-center h-80" src="/img/Petraton.png" alt="Petraton" />	

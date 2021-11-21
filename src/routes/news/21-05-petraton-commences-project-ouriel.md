@@ -1,7 +1,7 @@
 ---
 slug: 21-05-petraton-commences-project-ouriel
 title: Petraton Commences Project Ouriel Geological Survey
-date: 2020-12-10
+date: June 6, 2021
 excerpt: "Petraton has commenced geological mapping of the SW Nigeria Schist Belt to identify Lithium mineralization potential"
 tags: [Exploration]
 ---
