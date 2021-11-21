@@ -31,7 +31,7 @@
 		  <img src="/img/Petraton-licenses.png" alt="Petraton-licenses">
 
 		  <div class="flex flex-wrap">
-			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-2 border-l-2 border-gray-200 border-opacity-60">
 			  <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Integrated Exploration</h2>
 			  <p class="leading-relaxed text-base mb-4">We are using satellite, aerial, and ground data to map surface geology and minerals associated with economic minerals of interest.</p>
 			  <!-- <a class="text-indigo-500 inline-flex items-center">Learn More
@@ -40,7 +40,7 @@
 				</svg>
 			  </a> -->
 			</div>
-			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-2 border-l-2 border-gray-200 border-opacity-60">
 			  <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Data Driven</h2>
 			  <p class="leading-relaxed text-base mb-4">We are building a private geoscience database that will inform strategic decisions and reduce exploration and mining risk.</p>
 			  <!-- <a class="text-indigo-500 inline-flex items-center">Learn More
@@ -49,7 +49,7 @@
 				</svg>
 			  </a> -->
 			</div>
-			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-2 border-l-2 border-gray-200 border-opacity-60">
 			  <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Economic Potential</h2>
 			  <p class="leading-relaxed text-base mb-4">We will predict the economic occurrences of these minerals and feed the domestic reserves, production, processing, and recycling supply chains.</p>
 			  <!-- <a class="text-indigo-500 inline-flex items-center">Learn More
@@ -58,7 +58,7 @@
 				</svg>
 			  </a> -->
 			</div>
-			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+			<div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-2 border-l-2 border-gray-200 border-opacity-60">
 			  <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Partnerships</h2>
 			  <p class="leading-relaxed text-base mb-4">We partner with the industry, government, and communities to support management of these critical resources and protect the environment.</p>
 			  <!-- <a class="text-indigo-500 inline-flex items-center">Learn More
