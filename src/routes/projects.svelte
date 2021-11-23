@@ -47,7 +47,7 @@
 			  </div>
 			  <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
 				<h2 class="font-medium title-font text-gray-900 mb-1 text-xl">License Acquisition</h2>
-				<p class="leading-relaxed">We have secured exclisuve rights to explore and mine in a prolific pegmatite province that is wholly unexplored.</p>
+				<p class="leading-relaxed">We have secured exclusive rights to explore and mine in a prolific pegmatite province that is wholly unexplored.</p>
 			  </div>
 			</div>
 		  </div>

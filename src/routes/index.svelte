@@ -21,17 +21,17 @@
 <main>
     <!-- Require css -->
 	<section class="relative">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col items-center bg-fixed" style="background-image: url(/img/Eruwa.png)">
+    <div class="max-w-8xl mx-auto px-4 sm:px-6 flex flex-col items-center bg-cover" style="background-image: url(/img/Eruwa.png)">
 	  <!-- {/* Hero content */} -->
 		<!-- {/* Section header */} -->
 	
 	  <img class="object-center h-80 mt-10" src="/img/Petraton.png" alt="Petraton" />	
 	  <!-- </div>	 -->
 		<div class="text-center pb-12 md:pb-16">
-		  <h1 class="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter text-yellow-400 m-10" data-aos="zoom-y-out">Petraton </h1>
-		  <span class="text-3xl md:text-3xl font-extrabold leading-tighter tracking-tighter mb-4 bg-clip-text text-transparent bg-gradient-to-r from-gray-500 to-yellow-500">The tech mineral company</span>
+		  <h1 class="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter text-black m-10" data-aos="zoom-y-out">Petraton </h1>
+		  <span class="text-3xl md:text-3xl font-extrabold leading-tighter tracking-tighter mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-yellow-300">The tech mineral company</span>
 		  <div class="max-w-3xl mx-auto">
-			<p class="text-xl text-yellow-800 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Mining start-up focused on the search and discovery of critical minerals that power advances in world technology.</p>
+			<p class="text-xl text-white mb-8" data-aos="zoom-y-out" data-aos-delay="150">Mining start-up focused on the search and discovery of critical minerals that power advances in world technology.</p>
 			<div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
 			  <!-- <div>
 				<a class="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Start free trial</a>
