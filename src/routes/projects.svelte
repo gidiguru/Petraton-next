@@ -22,8 +22,32 @@
 	<div class="h-20 mt-10">		
 		<h1 class="h-auto">Our Project</h1>	
 	</div>	
-	<img src="/img/igbo-ora-site.png" alt="igbo-ora-site">
+	<div class="flex-grow sm:pl-6 mt-6 mb-6 sm:mt-0">
+		<!-- <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Mineral Exploration</h2> -->
+		<p class="leading-relaxed">Petraton licenses are underlain by Archean rocks which are known to hold gold mineralization in both Nigeria and its conjugate  Borborema trend (Brazil)
+		</p>
+	  </div>
+	  <img src="/img/nigeria-geology.png" alt="nigeria-geology">
+	  <div class="flex-grow sm:pl-6 mt-6 mb-6 sm:mt-0">
+		<!-- <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Mineral Exploration</h2> -->
+		<p class="leading-relaxed">Gemstones such as beryl, precious metals like gold, and industrial minerals like tantalite, have been artisanally mined in the area.
+		</p>
+		<p class="leading-relaxed">A geological survey has identifed 10 pegmatite deposits. Grade and size of each deposit is being determined.
+		</p>
+	  </div>
+	  <img src="/img/pegmatites.png" alt="pegmatites">
 
+
+	  <div class="h-16 mt-10">		
+		<h1 class="h-auto">Our Products</h1>	
+	</div>	
+
+	  <div class="flex-grow sm:pl-6 mt-6 mb-6 sm:mt-0">
+		<p class="leading-relaxed">Petraton licenses host several quartz and feldspar products which are important for the glass, ceramic, electronics, and battery industries.
+		</p>
+	  </div>
+
+	  <img src="/img/product.png" alt="product">
 
 	<div class="h-16 mt-10">		
 		<h1 class="h-auto">Our Timeline</h1>	
