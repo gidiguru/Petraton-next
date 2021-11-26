@@ -6,7 +6,12 @@ excerpt: "Petraton has commenced geological mapping of the SW Nigeria Schist Bel
 tags: [Exploration]
 ---
 
-We all know this year hasn't been easy. That doesn't mean it had to be wasted. Regardless of how bad or good it has been for oneself individually, there are always lots of lessons we can learn from what we've been through.
+Petraton is pleased to announce that it has acquired six key mineral exploration licenses in SW Nigeria.
 
-## More Than One Pandemic
+HIghlights
+
+Petraton acquires 857 sq. km within an area with active artisanal mining of gold, tantalum and industrial minerals.
+The 6 licences are located 150km away from the Port of Lagos, Nigeria.
+A systematic geological survey will be conducted over the area to determine the prospective areas of mineralization.
+
 

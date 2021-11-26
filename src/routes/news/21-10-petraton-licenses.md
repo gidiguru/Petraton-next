@@ -6,6 +6,12 @@ excerpt: "Petraton has been granted additional exclusive exploration rights to 1
 tags: [License Rights]
 ---
 
-I've recently re-launched my personal website and blog, that's now reached its 3rd version. There was nothing wrong with the previous one, but I wanted to both give it a small visual refresh and learn something new. So, after a month or so of working on it on my free time, 
 
-## About Svelte and SvelteKit
+Petraton is pleased to announce that it has acquired six key mineral exploration licenses in SW Nigeria.
+
+HIghlights
+
+Petraton acquires 857 sq. km within an area with active artisanal mining of gold, tantalum and industrial minerals.
+The 6 licences are located 150km away from the Port of Lagos, Nigeria.
+A systematic geological survey will be conducted over the area to determine the prospective areas of mineralization.
+
