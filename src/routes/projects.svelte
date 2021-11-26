@@ -20,7 +20,7 @@
 
 <div class="content">
 	<div class="h-20 mt-10">		
-		<h1 class="h-auto">Our Project</h1>	
+		<h1 class="h-auto">Our Projects</h1>	
 	</div>	
 	<div class="flex-grow sm:pl-6 mt-6 mb-6 sm:mt-0">
 		<!-- <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Mineral Exploration</h2> -->
