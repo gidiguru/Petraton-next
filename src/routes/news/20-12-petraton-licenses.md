@@ -6,11 +6,18 @@ excerpt: "Petraton has been granted exclusive exploration rights to 850 sq. km w
 tags: [License Rights]
 ---
 
-Petraton is pleased to announce that it has acquired six key mineral exploration licenses in SW Nigeria.
+# Petraton Awarded Exploration Rights to six licenses in Nigeria Frontier Lithium Belt
 
-HIghlights
+Petraton is pleased to announce that it has awarded six key mineral exploration licenses in Oyo State by the Federal Republic of Nigeria.
 
-Petraton acquires 857 sq. km within an area with active artisanal mining of gold, tantalum and industrial minerals.
-The 6 licences are located 150km away from the Port of Lagos, Nigeria.
-A systematic geological survey will be conducted over the area to determine the prospective areas of mineralization.
+## Highlights
+
+Petraton awarded 857 sq. km within an area with active artisanal mining of gold, tantalum and industrial minerals.
+
+The 6 licences are located 150km away from the Port of Lagos, by road.   
+
+
+  <img class="pb-6 w-screen " src="/img/Licenses-2020.png" alt="Petraton Licenses 2020">
+
+A systematic geological survey will be conducted over the area in 2021 to determine the prospective areas of lithium mineralization within the licenses.
  

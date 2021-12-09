@@ -6,12 +6,20 @@ excerpt: "Petraton has commenced geological mapping of the SW Nigeria Schist Bel
 tags: [Exploration]
 ---
 
-Petraton is pleased to announce that it has acquired six key mineral exploration licenses in SW Nigeria.
+# Petraton commences Project Ouriel Geological Survey
 
-HIghlights
+Petraton has commenced geological mapping of the SW Nigeria Schist Belt to identify Lithium mineralization potential in Oyo State, SW Nigeria.
 
-Petraton acquires 857 sq. km within an area with active artisanal mining of gold, tantalum and industrial minerals.
-The 6 licences are located 150km away from the Port of Lagos, Nigeria.
-A systematic geological survey will be conducted over the area to determine the prospective areas of mineralization.
+## Highlights
+
+A systematic geological mapping has commenced in earnest over the area surrounding Petraton licenses to identify the rock types and delineate the lithological relationships within the area. 
+
+Geologic samples taken over the area will be sent to the lab for further petrographic (thin section), mineralogical and geochemical analyses to reveal mineralization type, quantity, and distribution.   
+
+
+  <img class="pb-6 w-screen " src="/img/ouriel-commences.jpeg" alt="Project Ouriel Commences">
+
+These will be integrated into the geological maps to define targets that will be followed up with detailed prospect mapping and definition of anomalous areas.
+ 
 
 

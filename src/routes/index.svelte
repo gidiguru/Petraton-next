@@ -25,7 +25,7 @@
 	  <!-- {/* Hero content */} -->
 		<!-- {/* Section header */} -->
 	
-	  <img class="object-center h-80 mt-10" src="/img/Petraton.png" alt="Petraton" />	
+	  <img class="object-center h-80 mt-10" src="/img/Petraton.svg" alt="Petraton" />	
 	  <!-- </div>	 -->
 		<div class="text-center pb-12 md:pb-16">
 		  <h1 class="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter text-black m-10" data-aos="zoom-y-out">Petraton </h1>
