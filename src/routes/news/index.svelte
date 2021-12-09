@@ -40,7 +40,7 @@ const posts = Object.entries(import.meta.globEager('./*.md'))
 		<article class="flex flex-col shadow my-4">
 			<!-- Article Image -->
 			<a href="/news/{post.slug}" class="hover:opacity-75">
-				<img src="https://source.unsplash.com/collection/4781311/1000x500?sig=1">
+				<img src="https://source.unsplash.com/collection/4781311/1000x500?sig=1" alt="news">
 			</a>
 			<div class="bg-white flex flex-col justify-start p-6">
 				<a href="/news/{post.slug}" class="text-blue-700 text-sm font-bold uppercase pb-4">{post.tags.slice(0)}</a>

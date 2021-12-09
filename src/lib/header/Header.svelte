@@ -1,6 +1,6 @@
 <script>
 	import { page } from '$app/stores';
-	import logo from '/img/Petraton.svg';
+	import logo from '../../../static/img/Petraton.svg';
 	// import NAV from './Nav.svelte';
 	// import NAVITEM from './NavItem.svelte';
 	// import Sidebar from './Sidebar.svelte'
