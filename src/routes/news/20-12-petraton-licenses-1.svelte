@@ -44,7 +44,7 @@
           <div class="flex mt-3">
             <div>
               <!-- <p class="font-semibold text-gray-200 text-sm"> Ladi Delano </p> -->
-              <p class="font-semibold text-gray-400 text-xs"> December 10, 2021 </p>
+              <p class="font-semibold text-gray-400 text-xs"> December 10, 2020 </p>
             </div>
           </div>
         </div>
