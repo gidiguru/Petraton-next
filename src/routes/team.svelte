@@ -130,7 +130,7 @@
 					<!-- Image for mobile view-->
 					<!-- <div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" style="background-image: url('/img/ladi.jpeg')"></div> -->
 					
-					<div class="pt-12 pb-8">
+					<div class="pt-13 pb-8">
 						<a href="mailto:ladid@petraton.com"><button class="bg-green-700 hover:bg-green-900 text-white font-bold py-6 px-12 rounded-full">
 						  Join Us!
 						</button></a> 
