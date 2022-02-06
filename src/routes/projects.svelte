@@ -130,7 +130,7 @@
 		  </div>
 		</div>
 	  </section>
-
+		  <a href="/community" alt=""><button class="flex mx-auto mt-1 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">The Community</button></a>
 </div>
 
 <style>

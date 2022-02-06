@@ -56,7 +56,7 @@
 	  
 	  <p class="leading-relaxed mb-3">We hope you will follow us on our exciting journey to improve our world and meet the needs of the next generations.</p>
 
-	  <a href="/projects" alt=""><button class="flex mx-auto mt-1 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Projects</button></a>
+	  <a href="/news" alt=""><button class="flex mx-auto mt-1 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">News</button></a>
 	</div>
 
 <style>
