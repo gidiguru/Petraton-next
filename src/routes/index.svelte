@@ -73,7 +73,6 @@
 
       <!-- {/* Section background (needs .relative class on parent and next sibling elements) */} -->
       <div class="absolute inset-0 top-1/2 md:mt-24 lg:mt-0 bg-yellow-400 pointer-events-none" aria-hidden="true"></div>
-      <div class="absolute left-0 right-0 bottom-0 m-auto w-px p-px h-20 bg-gray-200 transform translate-y-1/2"></div>
 
       <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
         <div class="py-12 md:py-20">
@@ -132,7 +131,7 @@
                 </g>
               </svg>
               <h4 class="text-xl font-bold leading-snug tracking-tight mb-1">Smart Contracts</h4>
-              <p class="text-yellow-800 text-center">Integrating blockchain advances in the exploration lifecycle.</p>
+              <p class="text-yellow-800 text-center">Integrating blockchain advances in the mining lifecycle.</p>
             </div>
 
             <!-- {/* 4th item */} -->
