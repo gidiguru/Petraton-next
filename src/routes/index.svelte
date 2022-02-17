@@ -130,8 +130,8 @@
                   </g>
                 </g>
               </svg>
-              <h4 class="text-xl font-bold leading-snug tracking-tight mb-1">Smart Contracts</h4>
-              <p class="text-yellow-800 text-center">Integrating blockchain advances in the mining lifecycle.</p>
+              <h4 class="text-xl font-bold leading-snug tracking-tight mb-1">Blockchain</h4>
+              <p class="text-yellow-800 text-center">Using blockchain to assure only conflict-free minerals within its supply chain.</p>
             </div>
 
             <!-- {/* 4th item */} -->
